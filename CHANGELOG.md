@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## [0.0.3] - 2026-08-01
+
+### Added
+- 新增 `docs/handbook` 子模块：客户关系管理手册（quanttide-handbook-of-customer-relations）
+
 ## [0.0.2] - 2026-08-01
 
 ### Added

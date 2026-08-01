@@ -9,3 +9,4 @@
 | `data/profile` | [quanttide-profile-of-customer-relations](https://github.com/quanttide/quanttide-profile-of-customer-relations) | 客户关系开发档案 |
 | `data/journal` | [quanttide-journal-of-customer-relations](https://github.com/quanttide/quanttide-journal-of-customer-relations) | 客户关系开发日志 |
 | `docs/gallery` | [quanttide-gallery-of-customer-relations](https://github.com/quanttide/quanttide-gallery-of-customer-relations) | 客户关系案例集 |
+| `docs/handbook` | [quanttide-handbook-of-customer-relations](https://github.com/quanttide/quanttide-handbook-of-customer-relations) | 客户关系管理手册 |

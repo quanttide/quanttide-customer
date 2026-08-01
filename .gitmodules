@@ -7,3 +7,6 @@
 [submodule "docs/gallery"]
 	path = docs/gallery
 	url = https://github.com/quanttide/quanttide-gallery-of-customer-relations.git
+[submodule "docs/handbook"]
+	path = docs/handbook
+	url = https://github.com/quanttide/quanttide-handbook-of-customer-relations.git
