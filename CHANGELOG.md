@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## [0.0.4] - 2026-08-01
+
+### Added
+- 新增 `docs/essay` 子模块：客户关系随笔（quanttide-essay-of-customer-relations）
+
 ## [0.0.3] - 2026-08-01
 
 ### Added
