@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## [Unreleased]
+
+### Added
+- 新增 `apps/qtcustomer` 子模块：量潮客户中心（qtcustomer）
+- 新增 `packages/quanttide-customer-toolkit` 子模块：客户关系工具箱
+- 新增 `examples/default` 子模块：客户关系实验室（quanttide-laboratory-of-customer-relations）
+- 新增 `data/context`、`data/intention`、`data/roadmap`、`data/insight`、`data/brochure`、`data/report`、`data/library`、`data/history`、`data/archive` 子模块
+- 新增 `docs/bylaw`、`docs/specification`、`docs/tutorial` 子模块
+
 ## [0.0.4] - 2026-08-01
 
 ### Added
