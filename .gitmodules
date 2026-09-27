@@ -1,9 +1,9 @@
 [submodule "data/profile"]
 	path = data/profile
-	url = git@github.com:quanttide/quanttide-profile-of-customer-relations.git
+	url = https://github.com/quanttide/quanttide-profile-of-customer-relations.git
 [submodule "data/journal"]
 	path = data/journal
-	url = git@github.com:quanttide/quanttide-journal-of-customer-relations.git
+	url = https://github.com/quanttide/quanttide-journal-of-customer-relations.git
 [submodule "docs/gallery"]
 	path = docs/gallery
 	url = https://github.com/quanttide/quanttide-gallery-of-customer-relations.git
