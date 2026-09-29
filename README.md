@@ -8,7 +8,7 @@
 |---|---|---|
 | `apps/qtcustomer` | [qtcustomer](https://github.com/quanttide/qtcustomer) | 量潮客户中心，客户档案公开展示 |
 | `packages/quanttide-customer-toolkit` | [quanttide-customer-toolkit](https://github.com/quanttide/quanttide-customer-toolkit) | 客户关系工具箱 |
-| `examples/default` | [quanttide-laboratory-of-customer-relations](https://github.com/quanttide/quanttide-laboratory-of-customer-relations) | 客户关系实验室 |
+| `examples/quanttide-customer-lab` | [quanttide-customer-lab](https://github.com/quanttide/quanttide-customer-lab) | 客户关系实验室 |
 | `data/context` | [quanttide-context-of-customer-relations](https://github.com/quanttide/quanttide-context-of-customer-relations) | 客户关系语境 |
 | `data/intention` | [quanttide-intention-of-customer-relations](https://github.com/quanttide/quanttide-intention-of-customer-relations) | 客户关系意图 |
 | `data/roadmap` | [quanttide-roadmap-of-customer-relations](https://github.com/quanttide/quanttide-roadmap-of-customer-relations) | 客户关系路线图 |

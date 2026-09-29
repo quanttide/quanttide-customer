@@ -19,9 +19,9 @@
 [submodule "packages/quanttide-customer-toolkit"]
 	path = packages/quanttide-customer-toolkit
 	url = https://github.com/quanttide/quanttide-customer-toolkit.git
-[submodule "examples/default"]
-	path = examples/default
-	url = https://github.com/quanttide/quanttide-laboratory-of-customer-relations.git
+[submodule "examples/quanttide-customer-lab"]
+	path = examples/quanttide-customer-lab
+	url = https://github.com/quanttide/quanttide-customer-lab.git
 [submodule "data/context"]
 	path = data/context
 	url = https://github.com/quanttide/quanttide-context-of-customer-relations.git

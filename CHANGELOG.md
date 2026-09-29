@@ -2,6 +2,11 @@
 
 ## [Unreleased]
 
+### 变更
+
+- 实验室子模块改名：`examples/default` → `examples/quanttide-customer-lab`（仓 quanttide-laboratory-of-customer-relations → quanttide-customer-lab）
+
+
 ### Added
 - 新增 `apps/qtcustomer` 子模块：量潮客户中心（qtcustomer）
 - 新增 `packages/quanttide-customer-toolkit` 子模块：客户关系工具箱
